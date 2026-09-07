@@ -1,6 +1,6 @@
 # Context Sensitive Help
 
-VB6 working copy of `Context Sensitive Help` from Dave Robinson's OneDrive Historical Dev `VB/Old` folder. Project title: Project1. Output: `CS Help.exe`. `VersionCompanyName`: Chips, Bits and Bytes.
+Chips, Bits and Bytes VB6 demo (`CS Help.exe` / `CS Help.vbp`): TreeView that shows context-sensitive popup menus (two styles) on right-click of child nodes, switching menu sets by bit flags. Open `CS Help.vbp` in the VB6 IDE.
 
 **Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
